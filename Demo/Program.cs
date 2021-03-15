@@ -10,8 +10,10 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("我现在修改");
             Console.WriteLine("你好");
             Console.ReadKey();
+
         }
     }
 }
